@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "category": "smartphones"
+    },
+    {
+      "id": 2,
+      "title": "iPhone X",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "price": 899,
+      "category": "smartphones",
+      "discount": {
+        "type": "shipping"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Power of atomic habits",
+      "description": "Book for self growth",
+      "price": 20,
+      "category": "books"
+    },
+    {
+      "id": 4,
+      "title": "yoga-mat",
+      "description": "yoga mat for exercise",
+      "price": 20,
+      "category": "fitness"
+    },
+    {
+      "id": 5,
+      "title": "Huawei P30",
+      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "price": 499,
+      "category": "smartphones"
+    },
+    {
+      "id": 11,
+      "title": "iPhone 17",
+      "description": "nothing like apple",
+      "price": 699,
+      "category": "smartphones"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "rating": 3,
+      "comment": "review 1 for product 1",
+      "productId": 1
+    },
+    {
+      "id": 2,
+      "rating": 4,
+      "comment": "review 2 for product 1",
+      "productId": 1
+    },
+    {
+      "id": 3,
+      "rating": 5,
+      "comment": "review 3 for product 1",
+      "productId": 1
+    },
+    {
+      "id": 4,
+      "rating": 3,
+      "comment": "review 1 for product 2",
+      "productId": 2
+    },
+    {
+      "id": 5,
+      "rating": 4,
+      "comment": "review 2 for product 2",
+      "productId": 2
+    }
+  ]
+}
